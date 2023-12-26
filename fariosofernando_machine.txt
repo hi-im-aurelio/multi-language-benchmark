@@ -1,0 +1,13 @@
+Language   Runtime   Memory
+Dart       1ms       ~5MB
+Go         0ms       1.9MB
+PHP        0.218ms   0.412MB
+
+TypeScript __        _____
+
+JavaScript 0ms       HeapUsed: 5.959968MB, RSS: 31.219712MB
+Java       0ms       YoungGen: 20.11MB, OldGen: 105.63MB, Metaspace: 75.92MB
+Python     0.377s    ~23.1MB
+
+
+Ambiente de Teste: Windows 11, Dell Inc; Processador: Intel64 Family 6 Model 165 Stepping 2 GenuineIntel ~2592 Mhz
